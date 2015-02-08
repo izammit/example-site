@@ -6,4 +6,6 @@ class * extends CI_Controller{
 	}
 }
 
+echo "LOCAL CHANGE0;'"
+
 ?>
